@@ -15,7 +15,7 @@ public class enemigoUno implements Observer{
 
     @Override
     public void update() {
-        JOptionPane.showMessageDialog(null,"texto enemigo 1","Mensaje",1);
+        JOptionPane.showMessageDialog(null,"El enemigo 1 es demasiado debil y se ha rendido, F por el","Mensaje",1);
     }
     
 }
