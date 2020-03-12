@@ -15,7 +15,7 @@ public class enemigoDos implements Observer{
 
     @Override
     public void update() {
-        JOptionPane.showMessageDialog(null,"texto enemigo 2","Mensaje",1);
+        JOptionPane.showMessageDialog(null,"El enemigo dos esta listo para enfrentarle, ha copiado sus caracteristicas","Mensaje",1);
     }
     
 }
