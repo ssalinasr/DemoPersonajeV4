@@ -15,7 +15,7 @@ public class enemigoTres implements Observer{
 
     @Override
     public void update() {
-        JOptionPane.showMessageDialog(null,"texto enemigo 3","Mensaje",1);
+        JOptionPane.showMessageDialog(null,"El enemigo 3 esta listo para enfrentarle, usará su fase 4, F por usted","Mensaje",1);
     }
     
 }
